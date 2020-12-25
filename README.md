@@ -8,15 +8,19 @@ Initial state:
 ![](screenshots/
 im1.jpeg )
 
-Initial state:
+Check slider:
 
 ![](screenshots/im2.jpeg )
 
-Initial state:
+Apply alpha:
 
-![](screenshots/inputFromTextField.jpeg)
+![](screenshots/AlphaCheck.jpeg )
+
+Check different combination of colors:
+
 ![](screenshots/inputFromTextField1.jpeg)
-![](screenshots/sliderCheck2.jpeg)
+
+
 
 
 
